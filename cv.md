@@ -30,6 +30,14 @@ After starting my bachelor's degree at the National University of Uzbekistan, I 
 
 # Awards
 
-- **Bronze Medal** - _IMC 2021_ (2021)
-- **Gold Medal** - _4th open mathematical olympiad for university students_ (2021)
-- **Silver Medal** - _3th open mathematical olympiad for university students_ (2020)
+- **Bronze Medal** - _International Mathematics Competition 2021_ (2021)
+- **Gold Medal** - _4th Open Mathematical Olympiad for University Students_ (2021)
+- **Silver Medal** - _3th Open Mathematical Olympiad for University Students_ (2020)
+- **Gold Honour Diploma** - _International Youth Math Challenge_ (2019)
+
+# Code Example
+
+````function explode(s) {
+  return [...s].reduce((acc, l) => acc + l.repeat(parseInt(l)), '')
+}```
+````
