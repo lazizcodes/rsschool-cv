@@ -18,12 +18,12 @@ After starting my bachelor's degree at the National University of Uzbekistan, I 
 
 # Skills
 
-- JavaScript
+- **JavaScript**
   - Completed a full course on JavaScript. Currently, learning NodeJS
     (+ExpressJS) for backend development
-- Python
+- **Python**
   - Mainly algorithms and data structures with Python. Have been solving
     interview problems on leetcode.com for over a year.
-- C++
+- **C++**
   - Took a "C++ fundamentals" course at high school and university (one
     semester)
