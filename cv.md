@@ -37,7 +37,25 @@ After starting my bachelor's degree at the National University of Uzbekistan, I 
 
 # Code Example
 
-````function explode(s) {
-  return [...s].reduce((acc, l) => acc + l.repeat(parseInt(l)), '')
-}```
-````
+```
+function canConstruct(s, k) {
+    if (k >s.length) {
+        return false;
+    }
+    if (s.length === k) {
+        return true;
+    }
+
+    const map = {};
+    const a = 97
+    for (let i=0; i<=25; i++) {
+        map[String.fromCharCode(a + i)] = 0;
+    }
+    for (let i=0; i<s.length; i++) {
+        map[s[i]]++;
+    }
+
+    return Object.values(map).filter(x => x%2).length <= k
+
+}
+```
