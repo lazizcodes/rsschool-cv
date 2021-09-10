@@ -5,4 +5,13 @@
 - Phone: +998 90 979 29 77
 - E-mail: lazizabdullaev02@gmail.com
 - GitHub: [lazizcodes](https://github.com/lazizcodes)
-- Telegram: @laziz_akajon
+- Telegram: [@laziz_akajon](https://t.me/laziz_akajon)
+
+# About Me
+
+After starting my bachelor's degree at the National University of Uzbekistan, I have been a prize-winner at many international olympiads such as NCUMC, Open Mathematical Olympiad for Univeristy Students, IMC to name but a few. Also, I am currently ranked in Top 0.1% of Mathematics Stack Exchange ([account](https://math.stackexchange.com/users/752069/vivid)). Currently, I am intending to become a software engineer majoring in back-end but with front-end minor too.
+
+- My Strength
+  - Quick learning (international mathematical contests medalist in just two years starting with fundamental knowledge)
+  - Problem-solving
+  - Research potential
