@@ -59,3 +59,16 @@ function canConstruct(s, k) {
 
 }
 ```
+
+# Education
+
+- National University of Uzbekistan
+  - Bechelor, Mathematics
+- Al-Xorazmiy Specialized IT School
+  - High School, Exact Sciences and IT
+
+# Languages
+
+- **Uzbek** - native
+- **English** - proficient (IELTS 7.0)
+- **Russion** - intermediate
