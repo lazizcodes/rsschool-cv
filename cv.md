@@ -27,3 +27,9 @@ After starting my bachelor's degree at the National University of Uzbekistan, I 
 - **C++**
   - Took a "C++ fundamentals" course at high school and university (one
     semester)
+
+# Awards
+
+- **Bronze Medal** - _IMC 2021_ (2021)
+- **Gold Medal** - _4th open mathematical olympiad for university students_ (2021)
+- **Silver Medal** - _3th open mathematical olympiad for university students_ (2020)
