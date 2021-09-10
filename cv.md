@@ -1,5 +1,3 @@
-# [rsschool-cv](https://kryvetski-andrei.github.io/rsschool-cv/)
-
 # Laziz Abdullaev
 
 # Contact
