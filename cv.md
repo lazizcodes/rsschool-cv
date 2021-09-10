@@ -15,3 +15,15 @@ After starting my bachelor's degree at the National University of Uzbekistan, I 
   - Quick learning (international mathematical contests medalist in just two years starting with fundamental knowledge)
   - Problem-solving
   - Research potential
+
+# Skills
+
+- JavaScript
+  - Completed a full course on JavaScript. Currently, learning NodeJS
+    (+ExpressJS) for backend development
+- Python
+  - Mainly algorithms and data structures with Python. Have been solving
+    interview problems on leetcode.com for over a year.
+- C++
+  - Took a "C++ fundamentals" course at high school and university (one
+    semester)
